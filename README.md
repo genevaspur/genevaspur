@@ -1,4 +1,4 @@
-- 짬뽕개발자
+- 거지개발자
 - 🌱 Java💯, Spring Boot💯, Docker, Hibernate💯, Python
 - 🌱 Swift, Kotlin💯, Dart, Flutter
 - 🌱 JavaScript💯, jQuery💯, Vue.js💯
