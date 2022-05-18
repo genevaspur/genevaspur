@@ -1,8 +1,4 @@
-- 거지개발자
-- 🌱 Java💯, Spring Boot💯, Docker, Hibernate💯, Python
-- 🌱 Swift, Kotlin💯, Dart, Flutter
-- 🌱 JavaScript💯, jQuery💯, Vue.js💯
-- 🌱 MSSQL, MySQL, PostgreSQL, mongoDB
+Hello~
 
 <!---
 genevaspur/genevaspur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
