@@ -5,3 +5,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![GenevaSpur's GitHub stats](https://github-readme-stats.vercel.app/api?username=genevaspur&show_icons=true&theme=highcontrast) 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kth4241)](https://solved.ac/kth4241)
